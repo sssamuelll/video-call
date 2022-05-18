@@ -12,7 +12,7 @@ let options = {
     // Set the channel name.
     channel: "firstchannel",
     // Pass your temp token here.
-    token: "00650802e674686481aaf8ce19056176022IAAHLs/9oHpC6LAll+BPGsbrJxCy0vmh2mcOZiivCCq3mdzDPrsAAAAAEAASVDxDIw6AYgEAAQAjDoBi",
+    token: "00650802e674686481aaf8ce19056176022IAAvgjzYCUBhX9E5+zm0PH5151vWzdFLDuFtgLstTl3WPtzDPrsAAAAAEAB/xs3W26uGYgEAAQDbq4Zi",
     // Set the user ID.
     uid: 123456,
 };
